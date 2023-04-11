@@ -91,5 +91,8 @@ body{
     border-left: 5px solid #569DAA;
     padding-left: 10px;
     margin-top: 30px;
+}
 
+.error{
+    margin-top: 80px;
 }
