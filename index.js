@@ -13,9 +13,7 @@ btn.addEventListener('click', ()=>{
          result.innerHTML = `
          <div class="word">
                 <h3>${inputWord}</h3>
-                <button">
-                    <i class="fa-solid fa-music"></i>
-                </button>
+                
             </div>
             <div class="details">
                 <p>${data[0].meanings[0].partOfSpeech}</p>
